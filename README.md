@@ -58,7 +58,7 @@ You can install or update {ObsCovgTools} from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("kacurtis/ObsCovgTools")
+remotes::install_github("kacurtis/ObsCovgTools")
 ```
 
 ### Citation
